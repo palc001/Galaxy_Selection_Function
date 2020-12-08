@@ -1,0 +1,141 @@
+Starting Chain 1
+IC: alpha = 0.20, beta = 1.20, r_star = 30.00
+Iter: 20 K, 	current acc_ratio = 0.621
+Iter: 40 K, 	current acc_ratio = 0.622
+Iter: 60 K, 	current acc_ratio = 0.624
+Number of accepted values: 37457 out of 60000
+Acceptance ratio is 0.624
+
+Mean +- sigma parameter values for Chain 1:
+alpha 	= 0.4653 +- 0.0288
+beta 	= 2.0584 +- 0.1340
+r_star 	= 71.8736 +- 5.9203
+
+
+Starting Chain 2
+IC: alpha = 0.25, beta = 1.36, r_star = 38.00
+Iter: 20 K, 	current acc_ratio = 0.626
+Iter: 40 K, 	current acc_ratio = 0.628
+Iter: 60 K, 	current acc_ratio = 0.627
+Number of accepted values: 37609 out of 60000
+Acceptance ratio is 0.627
+
+Mean +- sigma parameter values for Chain 2:
+alpha 	= 0.4639 +- 0.0282
+beta 	= 2.0541 +- 0.1314
+r_star 	= 71.5342 +- 5.7093
+
+
+Starting Chain 3
+IC: alpha = 0.30, beta = 1.52, r_star = 46.00
+Iter: 20 K, 	current acc_ratio = 0.630
+Iter: 40 K, 	current acc_ratio = 0.629
+Iter: 60 K, 	current acc_ratio = 0.626
+Number of accepted values: 37549 out of 60000
+Acceptance ratio is 0.626
+
+Mean +- sigma parameter values for Chain 3:
+alpha 	= 0.4659 +- 0.0280
+beta 	= 2.0578 +- 0.1300
+r_star 	= 71.8915 +- 5.7588
+
+
+Starting Chain 4
+IC: alpha = 0.35, beta = 1.68, r_star = 54.00
+Iter: 20 K, 	current acc_ratio = 0.629
+Iter: 40 K, 	current acc_ratio = 0.630
+Iter: 60 K, 	current acc_ratio = 0.629
+Number of accepted values: 37738 out of 60000
+Acceptance ratio is 0.629
+
+Mean +- sigma parameter values for Chain 4:
+alpha 	= 0.4652 +- 0.0286
+beta 	= 2.0582 +- 0.1328
+r_star 	= 71.8467 +- 5.8433
+
+
+Starting Chain 5
+IC: alpha = 0.40, beta = 1.84, r_star = 62.00
+Iter: 20 K, 	current acc_ratio = 0.630
+Iter: 40 K, 	current acc_ratio = 0.629
+Iter: 60 K, 	current acc_ratio = 0.625
+Number of accepted values: 37504 out of 60000
+Acceptance ratio is 0.625
+
+Mean +- sigma parameter values for Chain 5:
+alpha 	= 0.4650 +- 0.0279
+beta 	= 2.0567 +- 0.1315
+r_star 	= 71.7337 +- 5.7589
+
+
+Starting Chain 6
+IC: alpha = 0.45, beta = 2.00, r_star = 70.00
+Iter: 20 K, 	current acc_ratio = 0.624
+Iter: 40 K, 	current acc_ratio = 0.625
+Iter: 60 K, 	current acc_ratio = 0.625
+Number of accepted values: 37499 out of 60000
+Acceptance ratio is 0.625
+
+Mean +- sigma parameter values for Chain 6:
+alpha 	= 0.4642 +- 0.0287
+beta 	= 2.0510 +- 0.1315
+r_star 	= 71.4880 +- 5.7870
+
+
+Starting Chain 7
+IC: alpha = 0.50, beta = 2.16, r_star = 78.00
+Iter: 20 K, 	current acc_ratio = 0.630
+Iter: 40 K, 	current acc_ratio = 0.629
+Iter: 60 K, 	current acc_ratio = 0.629
+Number of accepted values: 37739 out of 60000
+Acceptance ratio is 0.629
+
+Mean +- sigma parameter values for Chain 7:
+alpha 	= 0.4648 +- 0.0282
+beta 	= 2.0565 +- 0.1329
+r_star 	= 71.7491 +- 5.8591
+
+
+Starting Chain 8
+IC: alpha = 0.55, beta = 2.32, r_star = 86.00
+Iter: 20 K, 	current acc_ratio = 0.625
+Iter: 40 K, 	current acc_ratio = 0.627
+Iter: 60 K, 	current acc_ratio = 0.627
+Number of accepted values: 37600 out of 60000
+Acceptance ratio is 0.627
+
+Mean +- sigma parameter values for Chain 8:
+alpha 	= 0.4642 +- 0.0280
+beta 	= 2.0567 +- 0.1307
+r_star 	= 71.6896 +- 5.7055
+
+
+Starting Chain 9
+IC: alpha = 0.60, beta = 2.48, r_star = 94.00
+Iter: 20 K, 	current acc_ratio = 0.628
+Iter: 40 K, 	current acc_ratio = 0.627
+Iter: 60 K, 	current acc_ratio = 0.627
+Number of accepted values: 37601 out of 60000
+Acceptance ratio is 0.627
+
+Mean +- sigma parameter values for Chain 9:
+alpha 	= 0.4647 +- 0.0288
+beta 	= 2.0565 +- 0.1309
+r_star 	= 71.7277 +- 5.8049
+
+
+Starting Chain 10
+IC: alpha = 0.65, beta = 2.64, r_star = 102.00
+Iter: 20 K, 	current acc_ratio = 0.624
+Iter: 40 K, 	current acc_ratio = 0.626
+Iter: 60 K, 	current acc_ratio = 0.625
+Number of accepted values: 37521 out of 60000
+Acceptance ratio is 0.625
+
+Mean +- sigma parameter values for Chain 10:
+alpha 	= 0.4640 +- 0.0284
+beta 	= 2.0531 +- 0.1317
+r_star 	= 71.5419 +- 5.7995
+
+
+10 chain(s) done successfully!
